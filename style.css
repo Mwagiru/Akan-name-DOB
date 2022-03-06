@@ -8,7 +8,7 @@
 .intro {
     height: 40%;
     width: 100%;
-    background-image: url(images/Cubes.jpg);
+    background-image: url(/images/Cubes.jpg);
     color: aliceblue;
     display: flex;
     flex-direction: row;
@@ -25,7 +25,7 @@ h2 {
     width: 100%;
     font-size: 20px;
     color: black;
-    background-image: url(images/download.jpeg);
+    background-image: url(/images/download.jpeg);
 }
 .explanation p {
     padding: 10px;
