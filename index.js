@@ -6,12 +6,11 @@ function getBirthDateName(){
     let weekdayName=birthday.getDay();
     let maleAkanNames=["Kwasi","Kwadwo","Kwabena","Kwaku","Yaw","Kofi","Kwame"];
     let femaleAkanNames=["Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"];
-    if(Gender=="male"){
+    if(Gender==="male"){
         window.alert(birthday && maleAkanNames[weekdayName])
     
-}else{  window.alert(birthday && femaleAkanNames[weekdayName])
-}
-if(Gender==""){
+}else if(Gender==="female"){  window.alert(birthday && femaleAkanNames[weekdayName])
+}else{
     window.alert("Input Values!!");
 }
 }
