@@ -17,12 +17,10 @@
     font-size: 35px;
 }
 .explanation {
-    height: 70%;
+    height: 95%;
     width: 100%;
-    background-image: linear-gradient(to bottom right, black, white);
-}
-h2 {
-    color: whitesmoke;
+    background-color: bisque;
+    font-size: 20px;
 }
 .explanation p {
     padding: 10px;
@@ -36,9 +34,10 @@ table {
 }
 table,th,td {
     border: 1px solid black;
+    text-align: center;
 }
 .footer {
-    height: 10%;
+    height: 5%;
     width: 100%;
     background-color: blue;
 }
