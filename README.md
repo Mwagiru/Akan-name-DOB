@@ -2,7 +2,6 @@
 It is a good thing when babies are born.The Akan people of Ghana, name babies based on the days of birth and gender. E.g, if a baby boy is born on Saturday, he is named Kwame.This project helps us feel closer to the Ghanians by supplying Akan names. One is required to input Date Of Birth and upon submission, Akan name is displayed.
 ## author name
 Joy Mwagiru coded this project and made this README file.
-This is the live link mwagiru.github.io/akan-name-dob/
 ## setup instructions
 You could also make your own Akan Name Distributor by following setup instructions. Let's make one:
 1. create an empty repository(either locally or remotely)
