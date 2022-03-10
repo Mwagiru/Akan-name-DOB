@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    page-break-inside: avoid;
 }
 .container{
     height: 100vh;
